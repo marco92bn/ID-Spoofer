@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hardware Identity Spoofer
+Comment=Spoof hardware and network identifiers for anonymity
+Exec=sudo /usr/local/bin/hardware-spoof.sh
+Icon=security-high
+Terminal=true
+Categories=System;Security;
+Keywords=spoof;hardware;network;security;pentesting;privacy
+StartupNotify=true
